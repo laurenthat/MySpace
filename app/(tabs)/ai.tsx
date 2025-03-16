@@ -4,7 +4,7 @@ import React from "react";
 const ai = () => {
   return (
     <View>
-      <Text>ai</Text>
+      <Text>AI</Text>
     </View>
   );
 };
