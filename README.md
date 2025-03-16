@@ -1,6 +1,16 @@
-# Welcome to your Expo app 👋
+# MySpace
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app). It has nothing to do with the actual MySpace :smile:. This is just a personal app where I gather all my interests in one app.
+
+It's still an ongoing project but I'm planning on adding:
+
+- a weather widget for my location. Foreca API
+- a scrollable list with new movies. IMDB API
+- a scrollable list with tech news.
+- a scrollable list with sport news.
+- a widget with the next football match.
+- a chat function for an AI. Mistral API
+- 4 tabs: Home, Saved, Search, AI
 
 ## Get started
 
