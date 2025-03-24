@@ -93,7 +93,7 @@ const _layout = () => {
           headerShown: false,
           tabBarIcon: ({ focused }) => (
             <>
-              <TabIcon focused={focused} icon={icons.search} title="AI" />
+              <TabIcon focused={focused} icon={icons.person} title="AI" />
             </>
           ),
         }}
