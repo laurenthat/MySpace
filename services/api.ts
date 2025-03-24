@@ -24,3 +24,10 @@ export const fetchMovies = async ({ query }: { query: string }) => {
   const movieData = await response.json();
   return movieData.results;
 };
+
+export interface Movie {
+  id: number;
+  title: string;
+  poster_path: string;
+  // Add other properties as needed
+}
